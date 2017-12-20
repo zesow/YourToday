@@ -7,6 +7,7 @@ public class View {
         System.out.println("번호를 선택하세요");
         System.out.println("1. 글 쓰기");
         System.out.println("2. 글 보기");
+        System.out.println("3. 프로그램 종료");
         System.out.println("---------------------");
 
         Scanner sc = new Scanner(System.in);
